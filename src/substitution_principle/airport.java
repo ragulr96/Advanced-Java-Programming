@@ -1,9 +1,9 @@
 package substitution_principle;
-public class House extends Building {
+public class Airport extends Building {
     
 	
     @Override
     public String toString() {
-        return "House";
+        return "airport";
     }
 }
